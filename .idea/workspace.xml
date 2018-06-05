@@ -14,8 +14,8 @@
       <file leaf-file-name="read_reddit.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/read_reddit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="270">
+              <caret line="18" column="96" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
               <folding>
                 <element signature="e#23#34#0" expanded="true" />
               </folding>
@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/using_find.py" />
         <option value="$PROJECT_DIR$/using_find_with_projection.py" />
         <option value="$PROJECT_DIR$/find_using_gt_lt.py" />
+        <option value="$PROJECT_DIR$/read_reddit.py" />
       </list>
     </option>
   </component>
@@ -96,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_reddit">
+  <component name="RunManager" selected="Python.using_regex">
     <configuration name="find_using_gt_lt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mongoldb-m001p" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,24 +111,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_using_gt_lt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="hw1-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mongoldb-m001p" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw1-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,20 +170,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="using_regex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mongoldb-m001p" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using_regex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.hw1-2" />
       <item itemvalue="Python.using_find" />
       <item itemvalue="Python.using_find_with_projection" />
       <item itemvalue="Python.find_using_gt_lt" />
       <item itemvalue="Python.read_reddit" />
+      <item itemvalue="Python.using_regex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.using_regex" />
+        <item itemvalue="Python.using_find_with_projection" />
         <item itemvalue="Python.read_reddit" />
         <item itemvalue="Python.find_using_gt_lt" />
-        <item itemvalue="Python.using_find_with_projection" />
         <item itemvalue="Python.using_find" />
-        <item itemvalue="Python.hw1-2" />
       </list>
     </recent_temporary>
   </component>
@@ -412,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/read_reddit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="270">
+          <caret line="18" column="96" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
           <folding>
             <element signature="e#23#34#0" expanded="true" />
           </folding>
