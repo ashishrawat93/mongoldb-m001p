@@ -5,8 +5,8 @@ import pymongo
 connection = pymongo.MongoClient("mongodb://localhost")
 
 # get a handle to the school database
-db = connection.students
-stories = db.grades
+db = connection.school
+students = db.students
 
 
 def find():
@@ -14,29 +14,26 @@ def find():
 
 
     try:
-        cursor = stories.find({}, {'student_id':1, '_id':0}).sort('student_id',1)
+        cursor = students.find({})
     except Exception as e:
         print "Unexpected error:", type(e), e
     all_ids = []
     for doc in cursor:
-        for key in doc:
-            all_ids.append(doc[key])
-    all_ids_uniq =  list(set(all_ids))
+        min = float('inf')
+        idx = None
+        hw = doc['scores']
+        for jdx, each_hw in enumerate(hw):
+            if each_hw['type'] == 'homework' and each_hw['score']<=min:
+                min = each_hw['score']
+                idx = jdx
+        doc['scores'].pop(idx)
+        students.replace_one({'_id':doc['_id']}, doc)
 
-    for student in all_ids_uniq:
-        try:
-            cursor = stories.find({'student_id':student, 'type':'homework'}).sort('score', 1).limit(1)
 
-        except Exception as e:
-            print "Unexpected error:", type(e), e
-        for doc in cursor:
-            print(doc)
-            # print(doc['_id'])
-            obj_id = doc['_id']
-            try:
-                cursor = stories.delete_one({'_id':obj_id})
-            except Exception as e:
-                print "Unexpected error:", type(e), e
+
+
+
+
 
 
 if __name__ == '__main__':
