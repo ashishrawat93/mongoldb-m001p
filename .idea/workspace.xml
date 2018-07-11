@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb1a94fc-fe9d-483c-b443-1bec6ccdd08b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoHW.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoHW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final4/blogPostDAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/final4/blogPostDAO.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="blogPostDAO.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/final4/blogPostDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
+            <state relative-caret-position="76">
+              <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -641,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/final4/blogPostDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
+        <state relative-caret-position="76">
+          <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="24" />
         </state>
       </provider>
     </entry>
