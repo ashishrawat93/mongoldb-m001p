@@ -150,22 +150,20 @@ class BlogPostDAO:
     def increment_likes(self, permalink, comment_ordinal):
 
         try:
-            likes = None
-
+            # likes=1
+            # print likes,comment_ordinal, type(post), post
+            # print post['comments'][comment_ordinal].has_key("num_likes")
+            # print(post["comments"][comment_ordinal].has_key("body"))
             post = self.posts.find_one({'permalink': permalink})
             if post['comments'][comment_ordinal].has_key("num_likes"):
                 post['comments'][comment_ordinal]["num_likes"] = likes +1
             else:
                 post['comments'][comment_ordinal]["num_likes"] = 1
-            print likes, "aaaa"
 
             result = self.posts.replace_one({'_id': post['_id']}, post)
 
         except:
-            print "Likes couldnt be incremented", likes
-            return 0
-        
-
+            print "Likes couldnt be incremented"
         return 0
 
 
