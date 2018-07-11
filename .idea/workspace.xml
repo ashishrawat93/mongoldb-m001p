@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fb1a94fc-fe9d-483c-b443-1bec6ccdd08b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoHW.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoHW.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,56 +14,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="blog.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4-3/blog.py">
+      <file leaf-file-name="blogPostDAO.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/final4/blogPostDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cgi.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="1038" column="4" selection-start-line="1038" selection-start-column="4" selection-end-line="1038" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blogPostDAO.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4-3/blogPostDAO.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+            <state relative-caret-position="301">
+              <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="sessionDAO.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4-3/sessionDAO.py">
+        <entry file="file://$PROJECT_DIR$/final4/sessionDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
-            </state>
+            <state relative-caret-position="-29" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="userDAO.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4-3/userDAO.py">
+        <entry file="file://$PROJECT_DIR$/final4/userDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-            </state>
+            <state relative-caret-position="-29" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validate.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw4-3/validate.py">
+      <file leaf-file-name="validate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final4/validate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="100" column="67" selection-start-line="100" selection-start-column="67" selection-end-line="100" selection-end-column="67" />
+            <state relative-caret-position="90">
+              <caret line="1" column="8862" lean-forward="true" selection-start-line="1" selection-start-column="8862" selection-end-line="1" selection-end-column="8862" />
             </state>
           </provider>
         </entry>
@@ -75,6 +54,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>XXX</find>
+      <find>find_one</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,9 +76,12 @@
         <option value="$PROJECT_DIR$/read_reddit.py" />
         <option value="$PROJECT_DIR$/login_logout_signup/blog.py" />
         <option value="$PROJECT_DIR$/login_logout_signup/userDAO.py" />
-        <option value="$PROJECT_DIR$/demoHW.py" />
         <option value="$PROJECT_DIR$/hw3-2and3-3/blog.py" />
         <option value="$PROJECT_DIR$/hw3-2and3-3/blogPostDAO.py" />
+        <option value="$PROJECT_DIR$/demoHW.py" />
+        <option value="$PROJECT_DIR$/demo33.py" />
+        <option value="$PROJECT_DIR$/final4/blog.py" />
+        <option value="$PROJECT_DIR$/final4/blogPostDAO.py" />
       </list>
     </option>
   </component>
@@ -111,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,12 +109,24 @@
             <path>
               <item name="mongoldb-m001p" type="b2602c69:ProjectViewProjectNode" />
               <item name="mongoldb-m001p" type="462c0819:PsiDirectoryNode" />
+              <item name="final4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongoldb-m001p" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongoldb-m001p" type="462c0819:PsiDirectoryNode" />
+              <item name="final4" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongoldb-m001p" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongoldb-m001p" type="462c0819:PsiDirectoryNode" />
               <item name="hw4-3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,8 +145,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.validate (2)">
-    <configuration name="blog (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.validate">
+    <configuration name="blog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mongoldb-m001p" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,17 +154,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3-2and3-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3-2and3-3/blog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final4/blog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="blog (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="blogPostDAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mongoldb-m001p" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,11 +172,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4-3/blog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final4/blogPostDAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="demo33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mongoldb-m001p" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +218,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="validate (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="validate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mongoldb-m001p" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,29 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3-2and3-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3-2and3-3/validate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="validate (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mongoldb-m001p" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4-3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4-3/validate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final4/validate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,17 +238,17 @@
     </configuration>
     <list>
       <item itemvalue="Python.demoHW" />
-      <item itemvalue="Python.blog (1)" />
-      <item itemvalue="Python.validate (1)" />
-      <item itemvalue="Python.blog (2)" />
-      <item itemvalue="Python.validate (2)" />
+      <item itemvalue="Python.demo33" />
+      <item itemvalue="Python.blog" />
+      <item itemvalue="Python.validate" />
+      <item itemvalue="Python.blogPostDAO" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.validate (2)" />
-        <item itemvalue="Python.blog (2)" />
-        <item itemvalue="Python.validate (1)" />
-        <item itemvalue="Python.blog (1)" />
+        <item itemvalue="Python.validate" />
+        <item itemvalue="Python.blog" />
+        <item itemvalue="Python.blogPostDAO" />
+        <item itemvalue="Python.demo33" />
         <item itemvalue="Python.demoHW" />
       </list>
     </recent_temporary>
@@ -268,12 +267,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="328" y="61" width="1400" height="933" extended-state="0" />
+    <frame x="280" y="61" width="1400" height="933" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5064028" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44703144" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -293,54 +293,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw3-2and3-3/validate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3-2and3-3/blog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3720">
-          <caret line="254" column="17" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="23" />
-          <folding>
-            <element signature="e#634#648#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3-2and3-3/blogPostDAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
-          <folding>
-            <element signature="e#631#641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3-2and3-3/validate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/read_reddit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/using_find_with_projection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find_using_gt_lt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -579,20 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoHW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw3-2and3-3/blogPostDAO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
           <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
-          <folding>
-            <element signature="e#631#641#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -600,9 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3810">
           <caret line="254" column="17" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="23" />
-          <folding>
-            <element signature="e#634#648#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,14 +554,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw4-3/sessionDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="990">
           <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="15480">
           <caret line="1038" column="4" selection-start-line="1038" selection-start-column="4" selection-end-line="1038" selection-end-column="4" />
         </state>
       </provider>
@@ -636,21 +575,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw4-3/userDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="705">
           <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw4-3/blog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+        <state relative-caret-position="870">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw4-3/blogPostDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="1260">
           <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
         </state>
       </provider>
@@ -659,6 +598,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="100" column="67" selection-start-line="100" selection-start-column="67" selection-end-line="100" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoHW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" column="111" selection-start-line="16" selection-start-column="111" selection-end-line="16" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final4/sessionDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final4/userDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final4/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="356" column="34" lean-forward="true" selection-start-line="356" selection-start-column="34" selection-end-line="356" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final4/validate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="1" column="8862" lean-forward="true" selection-start-line="1" selection-start-column="8862" selection-end-line="1" selection-end-column="8862" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final4/blogPostDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
         </state>
       </provider>
     </entry>
